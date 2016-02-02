@@ -1,2 +1,5 @@
-# ben-carson.github.io
-My website
+# Github page for software developer, Ben Carson
+## Skills
+* Java
+* IntelliJ
+* Markdown
